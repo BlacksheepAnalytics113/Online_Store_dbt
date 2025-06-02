@@ -3,8 +3,8 @@
 For more details read the blog [here](https://www.startdataengineering.com/post/data-engineering-project-e2e/)
 
 # Architecture diagram
+![image](https://github.com/user-attachments/assets/f7415ce2-8883-4e59-880c-f6e56cbcad70)
 
-![Architecture](/assets/images/OnlineStore_arch.png)
 ## Setup
 
 ### Pre-requisites
